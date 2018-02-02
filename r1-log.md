@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
 
+### R1D5
+The random quote generator is finally complete. Added the functionality to tweet out the quote using jquery and url encoding. Also added an array of colours so that the background colour changes randomly each time there is a new quote. Pretty pleased with the final result. Added a gist of the new jquery code including the tweet button here: https://gist.github.com/nickihastings/5b1e9b4d3bb6c0dedc76d3206d5a9954
+Final codepen here https://codepen.io/nickihastings/full/BYappV/
+
 ### R1D4
 FINALLY worked out why the api import was failing. It seems I didn't understand how to use mashape where the quote api was coming from and didn't have the correct information and credentials. So happy it is now working and I have random movie quotes! You can see the codepen here, still some work to do on it: https://codepen.io/nickihastings/full/BYappV/
 I'm also trying to add as much code to github as possible to learn how it all works, so I have created a GIST with my javascript code. I don't know if this the correct way of doing, but it seemed like a good idea. https://gist.github.com/nickihastings/edbedf8166fa6862a98007031215fbc8
