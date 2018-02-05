@@ -3,6 +3,11 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D8
+Decided to add a fade in transition to the background colour change of the quote machine as it's something I've not played with before. CSS3 makes it easy.
+
+The weather app hasn't progressed so much as further research into the weather api revealed that the World Weather Online API is not a free one. Have chosen to go with the Dark Sky API instead, not least because it sounds cool ;-) It has a free option for 1,000 api calls a day. I doubt mine will ever get more than 5. Have read through the documentation and noted the complicated parts, such as changing celsius to fahrenheit. Also looked at how to get the geolocation information from a visitors browser, relatively easy although I am not sure how then to display it as an actual location.
+
 ### R1D7
 Set up the html and css base for the weather app. Checked the options available in the World Weather Online api. Put together some resources ready to begin the hard work tomorrow.
 
