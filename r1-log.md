@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D9
+Slightly distracted by the Falcon Heavy Rocket launch tonight, but managed to get some coding in. Worked out a javascript function to get the geolocation properties from the browser, store them and then text the longitude and latitude readings in the console. Success. Here is the gist of the little function: https://gist.github.com/nickihastings/58d15a5790c0cc142479a76c9525758c
+
 ### R1D8
 Decided to add a fade in transition to the background colour change of the quote machine as it's something I've not played with before. CSS3 makes it easy.
 
