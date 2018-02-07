@@ -3,6 +3,11 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+
+### R1D10
+Seem to be going backwards with the weather app rather than forwards. Realised that any api keys I planned to use would be exposed on codepen to the public which I don't think is a good idea. So, probably going to use the Free Code Camp weather api which apparently is a mirror of the openweathermaps api but with no need for keys. (They should have said that at the start.) 
+Did a bit of troubleshooting on my VPS as a mailbox quota was not updating after it had been cleared, the cpanel was still showing over quota. It is meant to update every four hours so something was wrong. Client not happy. Managed to find a way of forcing the maildirsize file to regenerate through shell access to the server. Another snippet of unix code to add to my growing collection.
+
 ### R1D9
 Slightly distracted by the Falcon Heavy Rocket launch tonight, but managed to get some coding in. Worked out a javascript function to get the geolocation properties from the browser, store them and then text the longitude and latitude readings in the console. Success. Here is the gist of the little function: https://gist.github.com/nickihastings/58d15a5790c0cc142479a76c9525758c
 
