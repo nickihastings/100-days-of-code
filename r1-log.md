@@ -3,6 +3,8 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D11
+Better progress with the weather app. Wrote the ajax function to fetch the api data which works. Now updating the html with the new data. So far it knows my location and the temperature. Getting excited! Work in progress is here: https://codepen.io/nickihastings/full/payLxr/
 
 ### R1D10
 Seem to be going backwards with the weather app rather than forwards. Realised that any api keys I planned to use would be exposed on codepen to the public which I don't think is a good idea. So, probably going to use the Free Code Camp weather api which apparently is a mirror of the openweathermaps api but with no need for keys. (They should have said that at the start.) 
