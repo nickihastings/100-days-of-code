@@ -3,6 +3,11 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D12
+Did some PHP coding to solve a WordPress theme problem with WooCommerce, doesn't display categories and products very well on the shop page so always requires some theme hacking.
+
+Added more data to the weather app and tested it with a different location via the VPN. All working. Took a bit of time to get the weather description from the api as it's provided as an object inside an object and I didn't realise. Still got to set up the change from Fahrenheit to Celsius buttons and also a bit of styling to do.
+
 ### R1D11
 Better progress with the weather app. Wrote the ajax function to fetch the api data which works. Now updating the html with the new data. So far it knows my location and the temperature. Getting excited! Work in progress is here: https://codepen.io/nickihastings/full/payLxr/
 
