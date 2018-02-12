@@ -3,6 +3,15 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D15
+Completed the weather app on codepen: https://codepen.io/nickihastings/full/payLxr/ very pleased with it. Managed to work out how to test for day and night and compare to the sunrise and sunset times to get a background image depending on day or night. Thought it would be harder than it was at the sunrise and sunset times in the api were provided as unix UTC times. But the api also provides the local time as well so it's just a matter of comparing. Did lots of tidying up on the look of the app and finally pleased with it.
+
+### R1D14
+Spent a good few hours on the weather app today and am very close to completing it. Wrote the code to change the background images depending on the weather codes returned. Seems a long winded way doing multiple if/else if statements, but there didn't seem to be an easier way. Tried switch but couldn't test the right conditions. Not sure if it is better to set up multiple background styles with the image information in the css and then use jquery to change the styles, or to set the images in an object in javascript and update the img attr with the correct image source. I did it the latter as it kept everything in the same place.
+
+### R1D13
+Struggling to keep up with this log and do code learning and work. Spent time sourcing background images and icons to use in the app. Got the Fahrenheit and Celsius buttons to work. Had a problem using <a> tags for the links as it caused the page to refresh instead of just changing the data and so the change never happened. Solved it by making buttons instead.
+
 ### R1D12
 Did some PHP coding to solve a WordPress theme problem with WooCommerce, doesn't display categories and products very well on the shop page so always requires some theme hacking.
 
