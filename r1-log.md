@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D16
+Submitted the weather app codepen to Free Code Camp and moved on to the next project which is to build a wikipedia viewer. Had a look at the supplied links to the wikipedia api and researched other people's versions to see what the general idea is. Planned out ideas for Nicki's Wiki Viewer. 
+
 ### R1D15
 Completed the weather app on codepen: https://codepen.io/nickihastings/full/payLxr/ very pleased with it. Managed to work out how to test for day and night and compare to the sunrise and sunset times to get a background image depending on day or night. Thought it would be harder than it was at the sunrise and sunset times in the api were provided as unix UTC times. But the api also provides the local time as well so it's just a matter of comparing. Did lots of tidying up on the look of the app and finally pleased with it.
 
