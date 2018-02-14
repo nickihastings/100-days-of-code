@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D17
+HTML and CSS base done for the Wiki Viewer in Codepen. The random article button is set up and working. Been playing with jquery animate to make the search field expand and contract. Need to design the look and feel next and get down to the wikipedia api.
+
 ### R1D16
 Submitted the weather app codepen to Free Code Camp and moved on to the next project which is to build a wikipedia viewer. Had a look at the supplied links to the wikipedia api and researched other people's versions to see what the general idea is. Planned out ideas for Nicki's Wiki Viewer. 
 
