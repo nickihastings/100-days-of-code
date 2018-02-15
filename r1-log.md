@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D18
+Add some design elements to the wiki viewer, worked out colour palette and added css. Now planning stage two which is importing and displaying relevant articles.
+
 ### R1D17
 HTML and CSS base done for the Wiki Viewer in Codepen. The random article button is set up and working. Been playing with jquery animate to make the search field expand and contract. Need to design the look and feel next and get down to the wikipedia api.
 
