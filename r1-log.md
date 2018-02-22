@@ -3,6 +3,27 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D25
+The Wiki Media Viewer app is nearly complete, it works, shows results, styling is nearly complete. Just playing about with jQuery animation to get the results to scroll up once they are loaded. Not working so far, not sure I understand the animate() and scrollTop() functions but will work it out.
+
+### R1D24
+Not much time tonight for coding, but did manage to get my wiki results into two columns quite nicely. Onto styling and tweaking tomorrow.
+
+### R1D23
+Writing the javascript to convert the JSN information into the results. Been interesting playing with arrays in javascript, as compared to php. I could have done what I wanted quite easily with PHP but had to find a different way with jQuery as it overwrites html rather than adding to it. Different way of looking at things. 
+
+### R1D22
+Finally after trying out different ways of writing the ajax call with cors and jsnp, managed to make it work. I've got results from the wiki media api. The documentation is totally awful, especially for a newbie who doesn't really know what they're looking for, and lacks explicit examples. Still, it's working. It's relief. Note to self: when code isn't working always check for typos FIRST! How many times do we have to relearn that lesson??!
+
+### R1D21
+Seem to be going around in circles re-reading code that seems to be the same as mine and yet mine isn't working, reading about cross origin domain problems with apis, changing the code, testing, round again. Nothing working, feeling frustrated and at a loss as to what I am missing.
+
+### R1D20
+Much time spent going over the wikipedia api docs again and then going back to the freecodecamp links to work out what I am missing. Finally found a page of help that seems to have the correct information, but it's still looking complicated. Fresh eyes tomorrow to go over this page again and hopefully get an ajax call working.
+
+### R1D19
+Have struggled to keep up with the coding, problem solving and this log. (As you can tell as it's now actually day 25. Ooops.) Reading through the wiki media api docs which seem very complicated and jump around from page to page. Feeling confused.
+
 ### R1D18
 Add some design elements to the wiki viewer, worked out colour palette and added css. Now planning stage two which is importing and displaying relevant articles.
 
