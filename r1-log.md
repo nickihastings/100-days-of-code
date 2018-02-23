@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D26
+The Wiki Media Viewer is now complete: https://codepen.io/nickihastings/full/WMZwMV/ Learnt how to make the page scroll up automatically using jquery animate and scrollTop which makes sense. Learnt how to make a jquery prototype function $.fn. so that it can be chained with jquery. A javascript function doesn't work, interesting to know there is a difference. Also worked out how to listen for the enter key press to run the search as well as clicking the button. Must use the preventDefault on the keypress as it reloads the page as the search field is a form, so then no results are displayed. Learnt alot doing this project and feeling accomplished.
+
 ### R1D25
 The Wiki Media Viewer app is nearly complete, it works, shows results, styling is nearly complete. Just playing about with jQuery animation to get the results to scroll up once they are loaded. Not working so far, not sure I understand the animate() and scrollTop() functions but will work it out.
 
