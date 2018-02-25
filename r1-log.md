@@ -3,6 +3,14 @@
 The log of my #100DaysOfCode challenge. Started on Monday, 29th January, 2018
 
 ## Log
+### R1D28
+Finished creating the wiki media files locally, linked them all together and uploaded them to my own server to check that everything works correctly. Then added them to a new repository in github. It all looks correct so I guess I created my first repository correctly!
+
+### R1D27
+The next freecodecamp project is to create an app using the twitch.tv api that shows which users are online and streaming. Did some research on this and took a look at twitch.
+
+Decided to make a git repository for the wiki media viewer as an exercise in learning github. Started recreating the files locally ready to upload.
+
 ### R1D26
 The Wiki Media Viewer is now complete: https://codepen.io/nickihastings/full/WMZwMV/ Learnt how to make the page scroll up automatically using jquery animate and scrollTop which makes sense. Learnt how to make a jquery prototype function $.fn. so that it can be chained with jquery. A javascript function doesn't work, interesting to know there is a difference. Also worked out how to listen for the enter key press to run the search as well as clicking the button. Must use the preventDefault on the keypress as it reloads the page as the search field is a form, so then no results are displayed. Learnt alot doing this project and feeling accomplished.
 
